@@ -1,0 +1,18 @@
+@import url(./__header/interface__header.css);
+
+@import url(./__header-text/interface__header-text.css);
+
+@import url(./__header-img/interface__header-img.css);
+
+@import url(./__content/interface__content.css);
+
+.interface {
+    width: 1204px;
+    height: 720px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(70, 70, 70, 0.15), 0px 0px 4px rgba(70, 70, 70, 0.5);
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

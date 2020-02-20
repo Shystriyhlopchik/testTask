@@ -1,0 +1,8 @@
+@import url(./_yellow/background__line_yellow.css);
+@import url(./_green/background__line_green.css);
+@import url(./_green-light/background__line_green-light.css);
+@import url(./_green-dark/background__line_green-dark.css);
+
+.background__line {
+    height: 100%;
+}

@@ -1,0 +1,9 @@
+.button_background_filled {
+    width: 218px;
+    height: 80px;
+    background: #FFFFFF;
+    border: 1px solid #969696;
+    box-shadow: 0px 2px 0px #969696;
+    border-radius: 12px;
+    line-height: 30px;
+}

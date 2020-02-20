@@ -1,0 +1,10 @@
+@import url(./__line/background__line.css);
+
+.background {
+    display: flex;
+    position: absolute;
+    min-width: 512px;
+    left: 59%;
+    width: 41%;
+    height: 100%;
+}

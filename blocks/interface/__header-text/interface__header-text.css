@@ -1,0 +1,8 @@
+.interface__header-text {
+    width: 900px;
+    margin-top: 28px;
+    margin-left: 40px;
+    font-family: 'Proxima Nova Lt', Arial, sans-serif;
+    font-size: 60px;
+    line-height: 64px;
+}

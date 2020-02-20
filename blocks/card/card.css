@@ -1,0 +1,19 @@
+@import url(./__footer/card__footer.css);
+
+@import url(./__footer-log/card__footer-log.css);
+
+@import url(./__footer-name/card__footer-name.css);
+
+@import url(./__number/card__number.css);
+
+.card {
+    width: 320px;
+    height: 200px;
+    background: #FFFFFF;
+    border: 3px solid #238441;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 25px 25px 0;
+}

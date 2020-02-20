@@ -1,0 +1,12 @@
+.button_background_transparent {
+    width: 183px;
+    height: 40px;
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    line-height: 24px;
+    margin-top: 40px;
+    margin-left: 40px;
+}

@@ -1,0 +1,14 @@
+@import url(./_background_filled/button_background_filled.css);
+
+@import url(./_background_transparent/button_background_transparent.css);
+
+@import url(./__img/button__img.css);
+
+@import url(./_color/button_color_black.css);
+
+.button {
+    display: flex;
+    align-items: center;
+    font-family: 'Proxima Nova Rg', Arial, sans-serif;
+    font-size: 30px;
+}

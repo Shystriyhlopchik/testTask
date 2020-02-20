@@ -1,0 +1,13 @@
+@import url(./_color/menu_color_green.css);
+
+.menu {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 1204px;
+    height: 830px;
+    top: 0; left: 0; bottom: 0; right: 0;
+    margin: auto;
+}

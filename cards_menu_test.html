@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="">
+    <head>
+        <meta charset="UTF-8" content="text/javascript">
+        <title>Cards menu test</title>
+        <link rel="stylesheet" href="./vendor/normalize.css">
+        <link rel="stylesheet" href="./pages/index.css">
+    </head>
+    <body>
+        <div class="background">
+            <div class="background__line background__line_yellow"></div>
+            <div class="background__line background__line_green-dark"></div>
+            <div class="background__line background__line_green"></div>
+            <div class="background__line background__line_green-light"></div>
+        </div> 
+        <main>
+            <div class="menu menu_color_green">
+                <div class="interface">
+                    <div class="interface__header">
+                        <div class="interface__header-text">Выберите карту, которую необходимо закрыть</div>
+                        <button class="button button_background_transparent button_color_black">
+                            <a>отменить</a><img class="interface__header-img" src="./images/icons/40 Icon-Cancel.png" alt="" >
+                        </button>
+                    </div>
+                    <div class="interface__content">
+                        <!-- Вставка элементов из initialCards -->
+                    </div>
+                </div>
+                <button class="button button_background_filled menu_color_green">
+                    <img class="button__img" src="./images/icons/48 Icon-card.png" alt=""><a>вернуть карту</a>
+                </button>
+            </div>
+        </main>
+        <script src="js/initialCards.js" type="text/javascript"></script>
+        <!-- <script src="js/screens_test.js" type="text/javascript"></script> -->
+        <script src="js/addCards.js" type="text/javascript"></script>
+    </body>
+</html>

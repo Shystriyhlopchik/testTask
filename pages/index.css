@@ -1,0 +1,15 @@
+@import url(../fonts/ProximaNova/ProximaNova.css);
+
+@import url(../blocks/background/background.css);
+
+@import url(../blocks/menu/menu.css);
+
+@import url(../blocks/button/button.css);
+
+@import url(../blocks/interface/interface.css);
+
+@import url(../blocks/card/card.css);
+
+body {
+    background-color: #DCDCD2;
+}
